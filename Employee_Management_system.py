@@ -7,6 +7,8 @@ from tkinter import filedialog, messagebox, ttk
 
 from PIL import Image, ImageDraw, ImageFont
 
+import calculator as calc
+
 root = Tk()
 
 appWidth = 550
@@ -103,7 +105,7 @@ def elementOfMenuElement():
 
     def tools(num):
         if num == 1:
-            os.system("calc")
+            calc.calculator()
 
     themeMenu.delete(0, 5)
     accountMenu.delete(0, 2)
