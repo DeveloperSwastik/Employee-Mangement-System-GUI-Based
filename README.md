@@ -32,5 +32,5 @@ _**Employee Mangement System** is a GUI base software use to manage data of empl
     - Calculator (Integrated Calculator)
 
 ## Interface of Program
-<img src="https://raw.githubusercontent.com/DeveloperSwastik/Python-Project-Employee-Mangement-System-GUI-Based/main/Snapshots/User%20Interface%20of%20Employee%20Management%20System%20-%20Control%20Center.png?token=GHSAT0AAAAAABTDOJFRKUCRVD33AWVV6VQQYSGZSRA" alt="Image">
-<img src="https://raw.githubusercontent.com/DeveloperSwastik/Python-Project-Employee-Mangement-System-GUI-Based/main/Snapshots/User%20Interface%20of%20Salary%20Management%20System%20-%20Control%20Center.png?token=GHSAT0AAAAAABTDOJFRJAS52MMQDAUSX33AYSGZTZA" alt="Image">
+<img src="https://raw.githubusercontent.com/DeveloperSwastik/Employee-Mangement-System-GUI-Based/main/Snapshots/User%20Interface%20of%20Employee%20Management%20System%20-%20Control%20Center.png?token=GHSAT0AAAAAABTDOJFRKUCRVD33AWVV6VQQYSGZSRA" alt="Image">
+<img src="https://raw.githubusercontent.com/DeveloperSwastik/Employee-Mangement-System-GUI-Based/main/Snapshots/User%20Interface%20of%20Salary%20Management%20System%20-%20Control%20Center.png?token=GHSAT0AAAAAABTDOJFRJAS52MMQDAUSX33AYSGZTZA" alt="Image">
